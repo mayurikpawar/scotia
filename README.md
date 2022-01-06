@@ -1,2 +1,2 @@
 # scotia
-scotia repo
+scotia repo for git commanf demotration
